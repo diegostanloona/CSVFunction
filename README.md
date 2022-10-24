@@ -18,3 +18,6 @@ Transformer function  | After the file is parsed we call the transformer functio
 Run a hook before  | n/a
 Run a hook after  | n/a
 Capture the time  | n/a
+
+###Stackblitz
+The project is available in Stackblitz at https://stackblitz.com/github/diegostanloona/CSVFunction
